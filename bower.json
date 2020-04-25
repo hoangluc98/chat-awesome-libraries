@@ -5,6 +5,7 @@
   ],
   "description": "chat libraries",
   "main": "/",
+  "private": false,
   "keywords": [
     "chat",
     "libraries"
