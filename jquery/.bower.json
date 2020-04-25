@@ -21,6 +21,6 @@
   },
   "_source": "https://github.com/jquery/jquery-dist.git",
   "_target": "3.3.1",
-  "_originalSource": "jquery",
+  "_originalSource": "jquery/jquery-dist",
   "_direct": true
 }
