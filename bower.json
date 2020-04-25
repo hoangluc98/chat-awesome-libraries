@@ -1,15 +1,17 @@
 {
-  "name": "chat-libraries",
+  "name": "chat-awesome-libraries",
+  "homepage": "https://github.com/hoangluc98/chat-awesome-libraries",
   "authors": [
     "hoangluc98 <luclego98@gmail.com>"
   ],
-  "description": "chat libraries",
-  "main": "/",
-  "private": false,
-  "keywords": [
-    "chat",
-    "libraries"
-  ],
+  "description": "",
+  "main": "",
   "license": "MIT",
-  "homepage": "https://github.com/hoangluc98/chat-awesome-libraries"
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
