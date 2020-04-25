@@ -1,0 +1,14 @@
+{
+  "name": "chat-libraries",
+  "authors": [
+    "hoangluc98 <luclego98@gmail.com>"
+  ],
+  "description": "chat libraries",
+  "main": "/",
+  "keywords": [
+    "chat",
+    "libraries"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hoangluc98/chat-awesome-libraries"
+}
